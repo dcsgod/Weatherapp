@@ -1,7 +1,6 @@
 configparser
 tk
 Pillow
-threading
 requests
 datetime
 pytz
